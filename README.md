@@ -1,6 +1,6 @@
-# MosquitoSong+
+# MosquitoSong+: A noise-robust deep learning model for mosquito classification from wingbeat sounds
 
-TBD.
+A deep learning model for mosquito species and sex classification based on a low-sample-rate raw audio signal.
 
 ## Setup Environment
 ```bash
