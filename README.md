@@ -23,3 +23,12 @@ To test the model performance. You can easily do it by following these steps.
 1.	Place classification models to `models` folder.
 1.	Run all cells for `predictions.ipynb`. 
 After the jupyter notebook file finished, the classification results will be generated as .xlsx file in `classification_results` folder. The results include per-class and average precision, recall, and F1-score. There are result from each round of 10-fold end as _raw file and average result end as _avg.
+
+
+## Citation
+TBD
+
+## Licence
+
+* For academic and non-commercial use only
+* Apache License 2.0
